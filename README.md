@@ -1,9 +1,5 @@
-# CPE313
-Advanced Machine Learning and Deep Learning Course
----
-# Description
-This repository is for submissions for my CPE313 course.
----
-# About Me
+# Advanced Machine Learning and Deep Learning Course
+This repository is for submissions on my CPE313 course.
+
+## About Me
 Name: Labbao, Benedick D.
----
